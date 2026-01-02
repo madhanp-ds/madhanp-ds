@@ -1,4 +1,3 @@
-
 Hi 👋, I'm Madhan  
 
 Hey there! I'm a data science student who enjoys exploring data and uncovering insights that help solve real-world business problems.  
