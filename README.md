@@ -1,4 +1,4 @@
-Hi 👋, I'm Madhan  
+Hi 👋, I'm Madhan.P  
 
 Hey there! I'm a data science student who enjoys exploring data and uncovering insights that help solve real-world business problems.  
 I like working with datasets, finding patterns, building basic models, and understanding *why* something happens — not just *what* happens.
