@@ -1,14 +1,15 @@
 Hi 👋, I'm Madhan P
 
-**Hey there! I'm a data science student who enjoys exploring data and uncovering insights that help solve real-world business problems.  
-I like working with datasets, finding patterns, building basic models, and understanding why something happens — not just what happens.
+Hey there! I'm a data science enthusiast passionate about transforming data into actionable insights. I focus on understanding why patterns exist, not just what they show.
+I learn through experimentation, leverage AI to boost productivity, and believe data science is about clear thinking and structured problem-solving.
+When I'm not analyzing data, I'm:
 
-I believe data is most powerful when it supports better decisions, and I'm continuously learning by working on hands-on projects and improving my analytical thinking.
+Sharpening Python & SQL
+Exploring ML frameworks
+Building learning projects
+Following industry trends
 
-When I'm not working with data, I spend time learning new concepts, improving my coding skills, and experimenting with small projects to strengthen my foundation.
-
-Always learning, always improving — welcome to my GitHub 🚀**
-
+Always learning, always questioning — welcome to my GitHub 🚀
 
 ---
 
