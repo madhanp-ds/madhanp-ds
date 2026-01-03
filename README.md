@@ -1,13 +1,14 @@
 Hi 👋, I'm Madhan P
 
-Hey there! I'm a data science student who enjoys exploring data and uncovering insights that help solve real-world business problems.  
-I like working with datasets, finding patterns, building basic models, and understanding *why* something happens — not just *what* happens.
+**Hey there! I'm a data science student who enjoys exploring data and uncovering insights that help solve real-world business problems.  
+I like working with datasets, finding patterns, building basic models, and understanding why something happens — not just what happens.
 
 I believe data is most powerful when it supports better decisions, and I'm continuously learning by working on hands-on projects and improving my analytical thinking.
 
 When I'm not working with data, I spend time learning new concepts, improving my coding skills, and experimenting with small projects to strengthen my foundation.
 
-Always learning, always improving — welcome to my GitHub 🚀
+Always learning, always improving — welcome to my GitHub 🚀**
+
 
 ---
 
@@ -36,7 +37,7 @@ Always learning, always improving — welcome to my GitHub 🚀
 ### 📂 Featured Project
 - **Telecom Customer Churn Analysis**  
   An end-to-end EDA project with basic churn prediction using Logistic Regression and Decision Tree.  
-  👉 [View Project](link-to-your-repo)
+  👉 [View Project](https://github.com/madhanp-ds/Teleco-Customer-Churn-analysis)
 
 
 
