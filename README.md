@@ -40,15 +40,6 @@ Always learning, always questioning — welcome to my GitHub 🚀
   An end-to-end EDA project with basic churn prediction using Logistic Regression and Decision Tree.  
   👉 [View Project](https://github.com/madhanp-ds/Teleco-Customer-Churn-analysis)
 
-### 📂 Featured Projects
-
-- **Olist Brazilian E-Commerce Analysis**
-  End-to-end marketplace analysis covering revenue patterns, customer behaviour,
-  seller performance, and geographic distribution across 100K+ orders (2016–2018).
-  Built with Python (pandas, matplotlib, seaborn) + SQL.
-  👉 [View Project](https://github.com/madhanp-ds/olist-ecommerce-analysis)
-
-  ### 📂 Featured Projects
 
 - **Olist Brazilian E-Commerce Analysis**
   End-to-end marketplace analysis covering revenue patterns, customer behaviour,
@@ -67,8 +58,8 @@ Always learning, always questioning — welcome to my GitHub 🚀
   identifying top states by transaction volume, payment app usage trends,
   monthly growth patterns, and regional distribution of digital payments.
   Built with Python (pandas, matplotlib, seaborn).
-  👉 [View Project](https://github.com/madhanp-ds/upi-transactions-analysis)
-
+  👉 [View Project](https://github.com/madhanp-ds/upi_transaction_analytics_2024)
+  
 ### 📫 How to reach me
 - Email: madhanp90197@gmail.com
 - LinkedIn: https://www.linkedin.com/in/madhanp-ds
