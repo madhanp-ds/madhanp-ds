@@ -17,7 +17,7 @@ Always learning, always questioning — welcome to my GitHub 🚀
 - Data Analysis  
 - Python  
 - Exploratory Data Analysis (EDA)  
-- Basic Machine Learning  
+- Machine Learning  
 
 
 ### 🛠️ Languages & Tools
